@@ -93,22 +93,7 @@ Manual test cases were written and validated for:
 
 Research papers and tools used in developing this app are cited in the report’s bibliography, including studies on Ayurvedic treatment integration and mobile healthcare technologies.
 
----
 
-## 📄 License
-
-This project is an academic capstone developed at **PES University**, under the guidance of **Mr. Tamal Dey**, Department of Computer Applications.
-
----
-
-## 🙏 Acknowledgement
-
-Special thanks to:
-- Dr. J Suryaprasad (Vice Chancellor)
-- Dr. Veena S (Chairperson)
-- Mr. Tamal Dey (Internal Guide)
-
----
 
 ## 👩‍💻 Developed by
 
