@@ -80,7 +80,7 @@ Manual test cases were written and validated for:
 
 ## 📸 Screenshots
 
-- Doctor Login & Appointment Pages
+- Doctor Login
 <img src="screenshots/doctor login.png" alt="Doctor Login Page"  height="500"/>
 - Patient Dashboard
 - Booking Doctor Interface
