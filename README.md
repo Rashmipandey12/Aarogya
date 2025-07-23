@@ -81,7 +81,7 @@ Manual test cases were written and validated for:
 ## 📸 Screenshots
 
 - Doctor Login & Appointment Pages
-- ![Login Page](screenshots/doctor login.png)
+  ![Login Page](screenshots/doctor login.png)
 - Patient Dashboard
 - Booking Doctor Interface
 - Remedies, Herbs, Exercises & Store Pages
