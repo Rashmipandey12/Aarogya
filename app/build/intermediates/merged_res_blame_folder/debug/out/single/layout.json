@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_remedy_recommendation.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_remedy_recommendation.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_doc_profilen_dashboard.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doc_profilen_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\list_item_products.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_search_doctor.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_search_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_edit_diagnosis_form.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_edit_diagnosis_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\list_item_herb_products.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_herb_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_doctor_profile_own.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_profile_own.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_add_product.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_doctor_remedy_add_success.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_remedy_add_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_treatment_package.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_treatment_package.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_booking_completed.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_booking_completed.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_doctor_booking.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_store_home.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_store_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_product_added_status.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_product_added_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\list_item_doctors.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_doctors.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\list_item_your_products.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_your_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_doctor_login.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_products_view.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_products_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\list_item_herbs.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_herbs.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_users_register.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_users_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\mapcardview.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\mapcardview.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_herb_recommendation.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_herb_recommendation.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_your_products.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_your_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_save_diagnosis_form.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_save_diagnosis_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_store_payment_success.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_store_payment_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\list_user_pending_appointments.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_user_pending_appointments.xml"
+    },
+    {
+        "merged": "com.example.ayurveda.app-mergeDebugResources-40:/layout/activity_add_doctor_remedy.xml",
+        "source": "com.example.ayurveda.app-main-43:/layout/activity_add_doctor_remedy.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\list_item_appoinment_details_last.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_appoinment_details_last.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_doctor_recommendation.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_recommendation.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_store_payment_gateway.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_store_payment_gateway.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\list_item_store_products.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_store_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_exercise.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\list_item_appoinment_complete.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_appoinment_complete.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_doctor_profile.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_view_appoinments_details.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_view_appoinments_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\item_treatment_package.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\item_treatment_package.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_add_doctor_remedy.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_add_doctor_remedy.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_store_payment.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_store_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_payment_success.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_payment_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_doctor_payment.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\item_exercise.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\item_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_payment_gateway.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_payment_gateway.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_doctor_diagnosis_form.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_diagnosis_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_user_appointments.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_user_appointments.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_users_login.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_users_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_doctor_register.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\list_item_remedies.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_remedies.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_remedies.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_remedies.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_welcome_doctor.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_welcome_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_treatment_package_detail.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_treatment_package_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\list_user_completed_appointments.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_user_completed_appointments.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_user_profile.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_view_appoinments.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_view_appoinments.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\list_item_appoinment_details.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_appoinment_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_doctor_other_details.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_other_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_welcome_user.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_welcome_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_map.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\list_item_appoinments_pending.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_appoinments_pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-mergeDebugResources-40:\\layout\\activity_store_cart.xml",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_store_cart.xml"
+    }
+]

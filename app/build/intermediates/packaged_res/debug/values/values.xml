@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="btn_gray">#E9E9E9</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="light_black">#1E1E1E</color>
+    <color name="primary_blue">#003580</color>
+    <color name="primary_gray">#4F4F4F</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Ayurveda</string>
+    <string name="gcm_defaultSenderId" translatable="false">684297978991</string>
+    <string name="google_api_key" translatable="false">AIzaSyBrz6p77M74n5UnrUFHGEWvyraRsYZ4oRs</string>
+    <string name="google_app_id" translatable="false">1:684297978991:android:d4dbbc32e046e3de0bb99a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBrz6p77M74n5UnrUFHGEWvyraRsYZ4oRs</string>
+    <string name="google_storage_bucket" translatable="false">aarogya-a8988.firebasestorage.app</string>
+    <string name="project_id" translatable="false">aarogya-a8988</string>
+    <string name="title_activity_map">Map</string>
+    <style name="Base.Theme.Ayurveda" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        
+        <item name="android:statusBarColor">#003580</item>
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorSecondary">@color/white</item>
+    </style>
+    <style name="Base.Theme.Ayurveda." parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Ayurveda" parent="Base.Theme.Ayurveda"/>
+</resources>

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.ayurveda.app-mergeDebugResources-39:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pande\\.gradle\\caches\\transforms-3\\6b6f680fdf4dd1d1303f5df39162e310\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pande\\.gradle\\caches\\transforms-3\\ac00f7b969dd66b820676c1e8c9db040\\transformed\\car-ui-lib-2.5.1\\res\\values-port\\values.xml",
+                    "from": {
+                        "startLines": "4,7,8",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "212,423,488",
+                        "endColumns": "59,64,62",
+                        "endOffsets": "271,487,550"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "111,175,244",
+                        "endColumns": "63,68,66",
+                        "endOffsets": "170,239,306"
+                    }
+                }
+            ]
+        }
+    ]
+}

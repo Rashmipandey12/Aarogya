@@ -1,0 +1,427 @@
+[
+  {
+    "condition": "cough",
+    "remedies": [
+      {
+        "remedy": "Tulsi leaves with honey and ginger",
+        "description": "How to use: Chew 5-6 fresh tulsi leaves with a teaspoon of honey and a small piece of ginger twice daily. Benefits: Boosts immunity, soothes throat irritation, and reduces coughing."
+      },
+      {
+        "remedy": "Steam inhalation with eucalyptus oil",
+        "description": "How to use: Add 3-4 drops of eucalyptus oil to a bowl of hot water, inhale the steam for 5-10 minutes. Benefits: Clears nasal congestion and relieves cough."
+      },
+      {
+        "remedy": "Turmeric milk before bedtime",
+        "description": "How to use: Mix half a teaspoon of turmeric powder in a glass of warm milk and drink before sleep. Benefits: Acts as a natural antibiotic and reduces throat inflammation."
+      }
+    ]
+  },
+  {
+    "condition": "constipation",
+    "remedies": [
+      {
+        "remedy": "Triphala powder at bedtime",
+        "description": "How to use: Take one teaspoon of triphala powder with warm water at bedtime. Benefits: Promotes gentle bowel movements and detoxifies the digestive system."
+      },
+      {
+        "remedy": "Warm lemon water in the morning",
+        "description": "How to use: Squeeze half a lemon into a glass of warm water and drink on an empty stomach. Benefits: Stimulates digestion and helps regularize bowel movements."
+      },
+      {
+        "remedy": "Soaked raisins",
+        "description": "How to use: Soak 10-15 raisins overnight in water and eat them on an empty stomach in the morning. Benefits: Acts as a natural laxative and improves stool softness."
+      }
+    ]
+  },
+  {
+    "condition": "acidity",
+    "remedies": [
+      {
+        "remedy": "Cold milk without sugar",
+        "description": "How to use: Drink a glass of cold milk without any sugar during acidity attacks. Benefits: Neutralizes excess stomach acid and soothes the stomach lining."
+      },
+      {
+        "remedy": "Aloe vera juice in the morning",
+        "description": "How to use: Drink 2 tablespoons of pure aloe vera juice every morning on an empty stomach. Benefits: Reduces inflammation and balances acid production."
+      },
+      {
+        "remedy": "Cumin seed (jeera) water",
+        "description": "How to use: Boil a teaspoon of cumin seeds in water, strain, and drink once cooled. Benefits: Improves digestion and prevents acid reflux."
+      }
+    ]
+  },
+  {
+    "condition": "immunity",
+    "remedies": [
+      {
+        "remedy": "Ashwagandha with warm milk",
+        "description": "How to use: Mix 1 teaspoon of ashwagandha powder in a glass of warm milk and drink before sleep. Benefits: Enhances immune response and reduces stress."
+      },
+      {
+        "remedy": "Chyawanprash daily",
+        "description": "How to use: Take one tablespoon of chyawanprash every morning. Benefits: Rich in antioxidants and vitamin C, boosts overall immunity."
+      },
+      {
+        "remedy": "Tulsi and giloy decoction",
+        "description": "How to use: Boil tulsi leaves and giloy stems in water, strain, and drink twice daily. Benefits: Fights infections and strengthens immune system."
+      }
+    ]
+  },
+  {
+    "condition": "hair fall",
+    "remedies": [
+      {
+        "remedy": "Bhringraj oil massage",
+        "description": "How to use: Massage bhringraj oil onto the scalp nightly and wash hair after 2 hours. Benefits: Nourishes scalp and promotes hair growth."
+      },
+      {
+        "remedy": "Amla powder with coconut oil",
+        "description": "How to use: Mix amla powder with warm coconut oil, apply on scalp, leave for 1 hour, then rinse. Benefits: Strengthens hair roots and prevents premature greying."
+      },
+      {
+        "remedy": "Fenugreek seed paste",
+        "description": "How to use: Soak fenugreek seeds overnight, grind into a paste, apply on scalp for 30 minutes, then wash. Benefits: Rich in proteins that strengthen hair follicles."
+      }
+    ]
+  }
+,
+  {
+    "condition": "headache",
+    "remedies": [
+      {
+        "remedy": "Peppermint oil massage",
+        "description": "How to use: Dilute a few drops of peppermint essential oil in a carrier oil and gently massage on temples and forehead. Benefits: Provides cooling relief and reduces headache intensity."
+      },
+      {
+        "remedy": "Basil tea",
+        "description": "How to use: Boil fresh basil leaves in water, strain and drink warm. Benefits: Acts as a natural pain reliever and reduces stress-induced headaches."
+      },
+      {
+        "remedy": "Cold compress",
+        "description": "How to use: Apply a cold compress or ice pack on the forehead for 15-20 minutes. Benefits: Helps constrict blood vessels and eases headache pain."
+      }
+    ]
+  },
+  {
+    "condition": "cold and flu",
+    "remedies": [
+      {
+        "remedy": "Ginger and turmeric tea",
+        "description": "How to use: Boil fresh ginger slices and turmeric powder in water, strain, and drink warm with honey. Benefits: Boosts immunity and alleviates cold symptoms."
+      },
+      {
+        "remedy": "Honey and cinnamon mixture",
+        "description": "How to use: Mix one teaspoon honey with half a teaspoon cinnamon powder, consume twice daily. Benefits: Antibacterial and anti-inflammatory, helps fight infections."
+      },
+      {
+        "remedy": "Saltwater gargle",
+        "description": "How to use: Dissolve half a teaspoon of salt in warm water and gargle for 30 seconds. Benefits: Soothes sore throat and reduces throat infections."
+      }
+    ]
+  },
+  {
+    "condition": "skin acne",
+    "remedies": [
+      {
+        "remedy": "Neem leaf paste",
+        "description": "How to use: Grind fresh neem leaves into a paste and apply on affected areas for 20 minutes before washing off. Benefits: Antibacterial properties help reduce acne and inflammation."
+      },
+      {
+        "remedy": "Multani mitti (Fuller’s earth) mask",
+        "description": "How to use: Mix Multani mitti with rose water to form a paste, apply on face, let dry, then wash. Benefits: Absorbs excess oil and cleanses pores."
+      },
+      {
+        "remedy": "Turmeric and honey spot treatment",
+        "description": "How to use: Mix turmeric powder with honey to make a paste and apply on pimples. Leave for 15 minutes before rinsing. Benefits: Reduces redness and fights bacteria."
+      }
+    ]
+  },
+  {
+    "condition": "stress and anxiety",
+    "remedies": [
+      {
+        "remedy": "Ashwagandha powder",
+        "description": "How to use: Take 1 teaspoon of ashwagandha powder with warm milk or water daily. Benefits: Helps balance cortisol levels and promotes relaxation."
+      },
+      {
+        "remedy": "Meditation and deep breathing",
+        "description": "How to use: Practice daily meditation for 10-15 minutes focusing on breath control. Benefits: Reduces anxiety and calms the mind."
+      },
+      {
+        "remedy": "Brahmi herbal tea",
+        "description": "How to use: Brew Brahmi leaves or powder in hot water, strain and drink once daily. Benefits: Improves mental clarity and reduces stress."
+      }
+    ]
+  },
+  {
+    "condition": "weight loss",
+    "remedies": [
+      {
+        "remedy": "Triphala powder with warm water",
+        "description": "How to use: Take one teaspoon of triphala powder in warm water before bed. Benefits: Supports digestion and detoxification aiding weight loss."
+      },
+      {
+        "remedy": "Cumin and coriander seed water",
+        "description": "How to use: Soak equal parts cumin and coriander seeds overnight, strain and drink first thing in the morning. Benefits: Boosts metabolism and reduces water retention."
+      },
+      {
+        "remedy": "Ginger and lemon tea",
+        "description": "How to use: Boil ginger slices in water, add lemon juice, strain and drink before meals. Benefits: Enhances fat burning and suppresses appetite."
+      }
+    ]
+  },
+  {
+    "condition": "diabetes",
+    "remedies": [
+      {
+        "remedy": "Bitter gourd juice",
+        "description": "How to use: Drink 30-50ml of fresh bitter gourd juice on an empty stomach daily. Benefits: Helps regulate blood sugar levels naturally."
+      },
+      {
+        "remedy": "Fenugreek seeds",
+        "description": "How to use: Soak fenugreek seeds overnight, consume seeds and water in the morning. Benefits: Improves insulin sensitivity and controls glucose."
+      },
+      {
+        "remedy": "Cinnamon powder",
+        "description": "How to use: Add half a teaspoon of cinnamon powder to tea or warm water daily. Benefits: Lowers blood sugar and improves lipid profile."
+      }
+    ]
+  },
+  {
+    "condition": "menstrual cramps",
+    "remedies": [
+      {
+        "remedy": "Ginger tea",
+        "description": "How to use: Boil fresh ginger slices in water, strain and drink warm during cramps. Benefits: Natural anti-inflammatory that reduces pain."
+      },
+      {
+        "remedy": "Warm sesame oil massage",
+        "description": "How to use: Warm sesame oil and massage gently on the lower abdomen. Benefits: Improves blood circulation and eases muscle spasms."
+      },
+      {
+        "remedy": "Fennel seed infusion",
+        "description": "How to use: Steep fennel seeds in hot water and drink as tea twice daily. Benefits: Helps relax uterine muscles and reduces discomfort."
+      }
+    ]
+  }
+
+,
+  {
+    "condition": "kidney",
+    "remedies": [
+      {
+        "remedy": "Punarnava (Boerhavia diffusa) tea",
+        "description": "How to use: Boil Punarnava leaves in water, strain and drink once daily. Benefits: Supports kidney function and helps reduce water retention."
+      },
+      {
+        "remedy": "Coriander seed water",
+        "description": "How to use: Soak 1 tablespoon of coriander seeds in water overnight and drink the water in the morning. Benefits: Acts as a natural diuretic, cleansing the kidneys."
+      },
+      {
+        "remedy": "Triphala powder",
+        "description": "How to use: Take 1 teaspoon of Triphala powder with warm water before bedtime. Benefits: Detoxifies kidneys and improves overall renal health."
+      }
+    ]
+  },
+  {
+    "condition": "liver",
+    "remedies": [
+      {
+        "remedy": "Bhumyamalaki (Phyllanthus niruri) decoction",
+        "description": "How to use: Boil dried Bhumyamalaki leaves or powder in water, strain and drink once daily. Benefits: Protects the liver and supports detoxification."
+      },
+      {
+        "remedy": "Turmeric milk",
+        "description": "How to use: Mix half teaspoon turmeric powder in warm milk and drink daily. Benefits: Anti-inflammatory properties promote liver healing and function."
+      },
+      {
+        "remedy": "Dandelion root tea",
+        "description": "How to use: Brew dried dandelion root in hot water, strain and drink once daily. Benefits: Stimulates bile production and detoxifies the liver."
+      }
+    ]
+  }
+,
+
+  {
+    "condition": "heart",
+    "remedies": [
+      {
+        "remedy": "Arjuna bark powder",
+        "description": "How to use: Take 1 teaspoon with warm water twice daily. Benefits: Strengthens heart muscles and improves cardiac health."
+      },
+      {
+        "remedy": "Garlic",
+        "description": "How to use: Consume 1-2 cloves raw or cooked daily. Benefits: Helps reduce cholesterol and blood pressure."
+      }
+    ]
+  },
+  {
+    "condition": "lungs",
+    "remedies": [
+      {
+        "remedy": "Tulsi (Holy basil) tea",
+        "description": "How to use: Brew fresh or dried tulsi leaves in hot water, drink 1-2 times a day. Benefits: Clears respiratory tract and boosts immunity."
+      },
+      {
+        "remedy": "Licorice root",
+        "description": "How to use: Take as tea or chew a small piece daily. Benefits: Soothes lung inflammation and eases cough."
+      }
+    ]
+  },
+  {
+    "condition": "digestion",
+    "remedies": [
+      {
+        "remedy": "Ginger tea",
+        "description": "How to use: Brew fresh ginger slices in hot water, drink before meals. Benefits: Improves digestion and reduces bloating."
+      },
+      {
+        "remedy": "Fennel seeds",
+        "description": "How to use: Chew a teaspoon of fennel seeds after meals. Benefits: Relieves indigestion and gas."
+      }
+    ]
+  },
+  {
+    "condition": "stress",
+    "remedies": [
+      {
+        "remedy": "Ashwagandha powder",
+        "description": "How to use: Take 1 teaspoon mixed with warm milk daily. Benefits: Reduces stress and improves energy."
+      },
+      {
+        "remedy": "Brahmi (Gotu kola) tea",
+        "description": "How to use: Brew dried leaves in hot water and drink daily. Benefits: Enhances mental clarity and reduces anxiety."
+      }
+    ]
+  },
+  {
+    "condition": "skin",
+    "remedies": [
+      {
+        "remedy": "Neem leaves paste",
+        "description": "How to use: Apply fresh paste on skin, leave 15 minutes and wash. Benefits: Treats acne and skin infections."
+      },
+      {
+        "remedy": "Turmeric and honey mask",
+        "description": "How to use: Mix turmeric powder with honey, apply to face, wash after 20 minutes. Benefits: Brightens skin and reduces inflammation."
+      }
+    ]
+  },
+  {
+    "condition": "joints",
+    "remedies": [
+      {
+        "remedy": "Ginger and turmeric paste",
+        "description": "How to use: Apply paste to painful joints or consume as tea. Benefits: Reduces joint inflammation and pain."
+      },
+      {
+        "remedy": "Ashwagandha capsules",
+        "description": "How to use: Take as per package instructions daily. Benefits: Supports joint health and reduces stiffness."
+      }
+    ]
+  }
+,
+  {
+    "condition": "back pain",
+    "remedies": [
+      {
+        "remedy": "Hot compress",
+        "description": "How to use: Apply hot water bag on affected area for 15-20 minutes. Benefits: Relaxes muscles and improves blood flow."
+      },
+      {
+        "remedy": "Gentle yoga stretches",
+        "description": "How to use: Perform recommended back stretches daily. Benefits: Increases flexibility and reduces stiffness."
+      },
+      {
+        "remedy": "Turmeric milk",
+        "description": "How to use: Drink warm milk with turmeric powder before bed. Benefits: Anti-inflammatory properties reduce pain."
+      }
+    ]
+  },
+  {
+    "condition": "leg",
+    "remedies": [
+      {
+        "remedy": "Epsom salt soak",
+        "description": "How to use: Dissolve 1 cup of Epsom salt in warm water and soak legs for 15-20 minutes. Benefits: Relieves muscle soreness and reduces inflammation."
+      },
+      {
+        "remedy": "Turmeric paste",
+        "description": "How to use: Mix turmeric powder with water to form a paste, apply on swollen or painful areas, leave for 30 minutes. Benefits: Anti-inflammatory and pain relief."
+      },
+      {
+        "remedy": "Ginger tea",
+        "description": "How to use: Drink a cup of ginger tea daily. Benefits: Improves blood circulation and reduces muscle pain."
+      }
+    ]
+  }
+,
+  {
+    "condition": "fever",
+    "remedies": [
+      {
+        "remedy": "Basil (Tulsi) tea",
+        "description": "How to use: Boil fresh tulsi leaves in water, strain and drink warm 2-3 times a day. Benefits: Helps reduce fever and boosts immunity."
+      },
+      {
+        "remedy": "Ginger and lemon tea",
+        "description": "How to use: Boil ginger slices in water, add lemon juice and honey, drink warm. Benefits: Helps lower body temperature and soothes throat."
+      },
+      {
+        "remedy": "Cold compress",
+        "description": "How to use: Apply a cold, damp cloth on the forehead and wrists. Benefits: Helps bring down fever by cooling the body."
+      }
+    ]
+  },
+  {
+    "condition": "allergy",
+    "remedies": [
+      {
+        "remedy": "Local honey",
+        "description": "How to use: Consume a teaspoon of local honey daily. Benefits: Helps build resistance to pollen allergies."
+      },
+      {
+        "remedy": "Nettle tea",
+        "description": "How to use: Brew dried nettle leaves in hot water, strain and drink once daily. Benefits: Natural antihistamine that reduces allergy symptoms."
+      },
+      {
+        "remedy": "Quercetin-rich foods",
+        "description": "How to use: Include foods like apples, onions, and berries in diet. Benefits: Acts as a natural antihistamine and reduces inflammation."
+      }
+    ]
+  },
+  {
+    "condition": "insomnia",
+    "remedies": [
+      {
+        "remedy": "Chamomile tea",
+        "description": "How to use: Brew chamomile flowers in hot water, strain and drink 30 minutes before bed. Benefits: Promotes relaxation and improves sleep quality."
+      },
+      {
+        "remedy": "Warm milk with nutmeg",
+        "description": "How to use: Mix a pinch of nutmeg in warm milk and drink before sleeping. Benefits: Acts as a natural sedative to aid sleep."
+      },
+      {
+        "remedy": "Lavender aromatherapy",
+        "description": "How to use: Use lavender essential oil in a diffuser or apply diluted oil on pillow. Benefits: Calms the mind and enhances sleep."
+      }
+    ]
+  },
+  {
+    "condition": "dry cough",
+    "remedies": [
+      {
+        "remedy": "Honey and warm water",
+        "description": "How to use: Mix one tablespoon of honey in a glass of warm water and sip slowly. Benefits: Soothes the throat and reduces irritation causing dry cough."
+      },
+      {
+        "remedy": "Licorice root tea",
+        "description": "How to use: Boil licorice root in water, strain and drink warm twice daily. Benefits: Acts as an expectorant and soothes inflamed throat."
+      },
+      {
+        "remedy": "Steam inhalation with peppermint oil",
+        "description": "How to use: Add 3-4 drops of peppermint oil to hot water and inhale steam for 5-10 minutes. Benefits: Moisturizes dry airways and relieves cough."
+      }
+    ]
+  }
+]

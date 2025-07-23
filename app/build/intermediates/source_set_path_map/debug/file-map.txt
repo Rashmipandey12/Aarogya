@@ -1,0 +1,44 @@
+com.example.ayurveda.app-activity-1.8.0-0 C:\Users\pande\.gradle\caches\transforms-3\0265fa24f226d80903fe3d06b0ae6fc9\transformed\activity-1.8.0\res
+com.example.ayurveda.app-coordinatorlayout-1.1.0-1 C:\Users\pande\.gradle\caches\transforms-3\183c805e85799418eb15050dad04979d\transformed\coordinatorlayout-1.1.0\res
+com.example.ayurveda.app-emoji2-1.2.0-2 C:\Users\pande\.gradle\caches\transforms-3\20d97f6ea013d1fe133aa24c4be4b15c\transformed\emoji2-1.2.0\res
+com.example.ayurveda.app-preference-1.1.1-3 C:\Users\pande\.gradle\caches\transforms-3\2ce8b5fb3104f4c4b7b42e7b294f84e8\transformed\preference-1.1.1\res
+com.example.ayurveda.app-transition-1.2.0-4 C:\Users\pande\.gradle\caches\transforms-3\3767d4c63ca8d1cb55207f10a5fdd088\transformed\transition-1.2.0\res
+com.example.ayurveda.app-lifecycle-livedata-core-2.6.1-5 C:\Users\pande\.gradle\caches\transforms-3\3be4f88c317551877577115df42482a7\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.ayurveda.app-core-1.9.0-6 C:\Users\pande\.gradle\caches\transforms-3\3d5f17972d6b3896c5c8cdc8d1340ed7\transformed\core-1.9.0\res
+com.example.ayurveda.app-circleimageview-3.1.0-7 C:\Users\pande\.gradle\caches\transforms-3\41847d1cea3f35d52711e4064c778731\transformed\circleimageview-3.1.0\res
+com.example.ayurveda.app-core-ktx-1.9.0-8 C:\Users\pande\.gradle\caches\transforms-3\46be9292ace8421376ea0c5be3a1ed42\transformed\core-ktx-1.9.0\res
+com.example.ayurveda.app-material-1.11.0-9 C:\Users\pande\.gradle\caches\transforms-3\4f8669485c6195433ccf534861ee8062\transformed\material-1.11.0\res
+com.example.ayurveda.app-lifecycle-viewmodel-savedstate-2.6.1-10 C:\Users\pande\.gradle\caches\transforms-3\52886e28123a2611d5bcb7b3433b436a\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.ayurveda.app-glide-4.12.0-11 C:\Users\pande\.gradle\caches\transforms-3\55f770bfc9c1ca988f223f871119802f\transformed\glide-4.12.0\res
+com.example.ayurveda.app-lifecycle-livedata-2.6.1-12 C:\Users\pande\.gradle\caches\transforms-3\67f1e88e492f9f13e28d216bf30c854d\transformed\lifecycle-livedata-2.6.1\res
+com.example.ayurveda.app-appcompat-1.6.1-13 C:\Users\pande\.gradle\caches\transforms-3\6b6f680fdf4dd1d1303f5df39162e310\transformed\appcompat-1.6.1\res
+com.example.ayurveda.app-core-runtime-2.2.0-14 C:\Users\pande\.gradle\caches\transforms-3\6ffc46f94d0cd65e506c78ca7cdbf424\transformed\core-runtime-2.2.0\res
+com.example.ayurveda.app-annotation-experimental-1.3.0-15 C:\Users\pande\.gradle\caches\transforms-3\7f351e40d30a23364100732b2c7a23fd\transformed\annotation-experimental-1.3.0\res
+com.example.ayurveda.app-play-services-basement-18.4.0-16 C:\Users\pande\.gradle\caches\transforms-3\8552d64e3efaf8249649e2747e47ead0\transformed\play-services-basement-18.4.0\res
+com.example.ayurveda.app-firebase-common-20.4.2-17 C:\Users\pande\.gradle\caches\transforms-3\8c298c4605677c9b2f20a794fdd46708\transformed\firebase-common-20.4.2\res
+com.example.ayurveda.app-play-services-maps-18.2.0-18 C:\Users\pande\.gradle\caches\transforms-3\8e0d750c5d21d3f02e3d0d531f0a122e\transformed\play-services-maps-18.2.0\res
+com.example.ayurveda.app-fragment-1.3.6-19 C:\Users\pande\.gradle\caches\transforms-3\91e9f0f8fa14f99f1acddd4f7c3a5ddf\transformed\fragment-1.3.6\res
+com.example.ayurveda.app-constraintlayout-2.1.4-20 C:\Users\pande\.gradle\caches\transforms-3\9e315665dd4e14c1f13b15973d727858\transformed\constraintlayout-2.1.4\res
+com.example.ayurveda.app-lifecycle-process-2.6.1-21 C:\Users\pande\.gradle\caches\transforms-3\9f0c53f70052d6ac9846d8d56de671bb\transformed\lifecycle-process-2.6.1\res
+com.example.ayurveda.app-recyclerview-1.2.1-22 C:\Users\pande\.gradle\caches\transforms-3\a04238fb9d724ad3ac0ffcc8e508afb0\transformed\recyclerview-1.2.1\res
+com.example.ayurveda.app-car-ui-lib-2.5.1-23 C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\res
+com.example.ayurveda.app-lifecycle-viewmodel-2.6.1-24 C:\Users\pande\.gradle\caches\transforms-3\ae9f442c3b7c77e258a347679c671072\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.ayurveda.app-emoji2-views-helper-1.2.0-25 C:\Users\pande\.gradle\caches\transforms-3\b594059c0b30a831f880bc035e7f8024\transformed\emoji2-views-helper-1.2.0\res
+com.example.ayurveda.app-play-services-base-18.5.0-26 C:\Users\pande\.gradle\caches\transforms-3\b736a2ce5bd5dfbfb6b49104d888f692\transformed\play-services-base-18.5.0\res
+com.example.ayurveda.app-browser-1.4.0-27 C:\Users\pande\.gradle\caches\transforms-3\ba152a3f890fca66db738caee5003db6\transformed\browser-1.4.0\res
+com.example.ayurveda.app-viewpager2-1.0.0-28 C:\Users\pande\.gradle\caches\transforms-3\bfaba189234b1e491b909458a6d057b4\transformed\viewpager2-1.0.0\res
+com.example.ayurveda.app-cardview-1.0.0-29 C:\Users\pande\.gradle\caches\transforms-3\c16a475a3b7cd4c8a768ab5bc0cdde0a\transformed\cardview-1.0.0\res
+com.example.ayurveda.app-startup-runtime-1.1.1-30 C:\Users\pande\.gradle\caches\transforms-3\c774d3fef8940dcccd21f6156e80746a\transformed\startup-runtime-1.1.1\res
+com.example.ayurveda.app-savedstate-1.2.1-31 C:\Users\pande\.gradle\caches\transforms-3\c98258f379aced7914b5f3768b2b462b\transformed\savedstate-1.2.1\res
+com.example.ayurveda.app-appcompat-resources-1.6.1-32 C:\Users\pande\.gradle\caches\transforms-3\d05093eb3bab44ce9376c6d616cf6ab3\transformed\appcompat-resources-1.6.1\res
+com.example.ayurveda.app-profileinstaller-1.3.0-33 C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\res
+com.example.ayurveda.app-drawerlayout-1.1.1-34 C:\Users\pande\.gradle\caches\transforms-3\e36bc4c579fde808694bfdd758ae2563\transformed\drawerlayout-1.1.1\res
+com.example.ayurveda.app-lifecycle-runtime-2.6.1-35 C:\Users\pande\.gradle\caches\transforms-3\f9036db9cab9cd313c388c485b2906c9\transformed\lifecycle-runtime-2.6.1\res
+com.example.ayurveda.app-google-services-36 D:\Final\Ayurveda app\app\build\generated\res\google-services\debug
+com.example.ayurveda.app-pngs-37 D:\Final\Ayurveda app\app\build\generated\res\pngs\debug
+com.example.ayurveda.app-resValues-38 D:\Final\Ayurveda app\app\build\generated\res\resValues\debug
+com.example.ayurveda.app-packageDebugResources-39 D:\Final\Ayurveda app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.ayurveda.app-packageDebugResources-40 D:\Final\Ayurveda app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.ayurveda.app-merged_res-41 D:\Final\Ayurveda app\app\build\intermediates\merged_res\debug
+com.example.ayurveda.app-debug-42 D:\Final\Ayurveda app\app\src\debug\res
+com.example.ayurveda.app-main-43 D:\Final\Ayurveda app\app\src\main\res

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:id="@+id/remedy_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Remedy Name"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/remedy_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Remedy Description"
+        android:textSize="14sp"
+        android:textColor="#666666"
+        android:paddingTop="4dp" />
+
+</LinearLayout>

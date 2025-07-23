@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684297978991",
+    "project_id": "aarogya-a8988",
+    "storage_bucket": "aarogya-a8988.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684297978991:android:d4dbbc32e046e3de0bb99a",
+        "android_client_info": {
+          "package_name": "com.example.ayurveda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrz6p77M74n5UnrUFHGEWvyraRsYZ4oRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

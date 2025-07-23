@@ -1,0 +1,679 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.ayurveda"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+11-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:5:5-77
+11-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:5:22-74
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:6:5-79
+12-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:7:5-81
+13-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:8:5-80
+14-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:8:22-77
+15    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+15-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:9:5-82
+15-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:9:22-79
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:10:5-81
+16-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:11:5-67
+17-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:11:22-64
+18
+19    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+20    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\pande\.gradle\caches\transforms-3\ba590cd51aebbd99884ee07ca22ae34b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:23:5-79
+21-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\pande\.gradle\caches\transforms-3\ba590cd51aebbd99884ee07ca22ae34b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:23:22-76
+22
+23    <queries>
+23-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:23:5-34:15
+24
+25        <!-- Required for querying the IME service at runtime -->
+26        <intent>
+26-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:26:9-28:18
+27            <action android:name="android.view.InputMethod" />
+27-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:27:13-63
+27-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:27:21-60
+28        </intent>
+29        <!-- Required for querying the plugin at runtime -->
+30        <provider
+30-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:30:9-33:67
+31            android:name="com.android.car.ui.plugin.PluginNameProvider"
+31-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:31:13-72
+32            android:authorities="com.android.car.ui.plugin" />
+32-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:32:13-60
+33        <!-- Needs to be explicitly declared on Android R+ -->
+34        <package android:name="com.google.android.apps.maps" />
+34-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\pande\.gradle\caches\transforms-3\8e0d750c5d21d3f02e3d0d531f0a122e\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+34-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\pande\.gradle\caches\transforms-3\8e0d750c5d21d3f02e3d0d531f0a122e\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+35    </queries>
+36
+37    <uses-feature
+37-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\pande\.gradle\caches\transforms-3\8e0d750c5d21d3f02e3d0d531f0a122e\transformed\play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+38        android:glEsVersion="0x00020000"
+38-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\pande\.gradle\caches\transforms-3\8e0d750c5d21d3f02e3d0d531f0a122e\transformed\play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+39        android:required="true" />
+39-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\pande\.gradle\caches\transforms-3\8e0d750c5d21d3f02e3d0d531f0a122e\transformed\play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+40
+41    <permission
+41-->[androidx.core:core:1.9.0] C:\Users\pande\.gradle\caches\transforms-3\3d5f17972d6b3896c5c8cdc8d1340ed7\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+42        android:name="com.example.ayurveda.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+42-->[androidx.core:core:1.9.0] C:\Users\pande\.gradle\caches\transforms-3\3d5f17972d6b3896c5c8cdc8d1340ed7\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+43        android:protectionLevel="signature" />
+43-->[androidx.core:core:1.9.0] C:\Users\pande\.gradle\caches\transforms-3\3d5f17972d6b3896c5c8cdc8d1340ed7\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+44
+45    <uses-permission android:name="com.example.ayurveda.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+45-->[androidx.core:core:1.9.0] C:\Users\pande\.gradle\caches\transforms-3\3d5f17972d6b3896c5c8cdc8d1340ed7\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+45-->[androidx.core:core:1.9.0] C:\Users\pande\.gradle\caches\transforms-3\3d5f17972d6b3896c5c8cdc8d1340ed7\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+46
+47    <application
+47-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:13:5-171:19
+48        android:allowBackup="true"
+48-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:14:9-35
+49        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+49-->[androidx.core:core:1.9.0] C:\Users\pande\.gradle\caches\transforms-3\3d5f17972d6b3896c5c8cdc8d1340ed7\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+50        android:dataExtractionRules="@xml/data_extraction_rules"
+50-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:15:9-65
+51        android:debuggable="true"
+52        android:extractNativeLibs="false"
+53        android:fullBackupContent="@xml/backup_rules"
+53-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:16:9-54
+54        android:icon="@mipmap/ic_launcher"
+54-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:17:9-43
+55        android:label="@string/app_name"
+55-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:18:9-41
+56        android:roundIcon="@mipmap/ic_launcher_round"
+56-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:19:9-54
+57        android:supportsRtl="true"
+57-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:20:9-35
+58        android:testOnly="true"
+59        android:theme="@style/Theme.Ayurveda" >
+59-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:21:9-46
+60        <activity
+60-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:23:9-25:40
+61            android:name="com.example.ayurveda.TreatmentPackageDetailActivity"
+61-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:24:13-59
+62            android:exported="false" />
+62-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:25:13-37
+63        <activity
+63-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:26:9-28:40
+64            android:name="com.example.ayurveda.TreatmentPackageActivity"
+64-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:27:13-53
+65            android:exported="false" />
+65-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:28:13-37
+66        <activity
+66-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:29:9-31:40
+67            android:name="com.example.ayurveda.ExerciseActivity"
+67-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:30:13-45
+68            android:exported="false" />
+68-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:31:13-37
+69        <activity
+69-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:32:9-34:40
+70            android:name="com.example.ayurveda.BookingCompleted"
+70-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:33:13-45
+71            android:exported="false" />
+71-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:34:13-37
+72        <activity
+72-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:35:9-37:40
+73            android:name="com.example.ayurveda.StoreCart"
+73-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:36:13-38
+74            android:exported="false" />
+74-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:37:13-37
+75        <activity
+75-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:38:9-40:40
+76            android:name="com.example.ayurveda.StorePaymentSuccess"
+76-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:39:13-48
+77            android:exported="false" />
+77-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:40:13-37
+78        <activity
+78-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:41:9-44:55
+79            android:name="com.example.ayurveda.StoreHome"
+79-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:42:13-38
+80            android:exported="false"
+80-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:43:13-37
+81            android:windowSoftInputMode="adjustPan" />
+81-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:44:13-52
+82        <activity
+82-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:45:9-47:40
+83            android:name="com.example.ayurveda.YourProducts"
+83-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:46:13-41
+84            android:exported="false" />
+84-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:47:13-37
+85        <activity
+85-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:48:9-50:40
+86            android:name="com.example.ayurveda.UserAppointments"
+86-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:49:13-45
+87            android:exported="false" />
+87-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:50:13-37
+88        <activity
+88-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:51:9-53:40
+89            android:name="com.example.ayurveda.DoctorBooking"
+89-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:52:13-42
+90            android:exported="false" />
+90-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:53:13-37
+91        <activity
+91-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:54:9-56:40
+92            android:name="com.example.ayurveda.StorePaymentGateway"
+92-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:55:13-48
+93            android:exported="false" />
+93-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:56:13-37
+94        <activity
+94-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:57:9-59:40
+95            android:name="com.example.ayurveda.StorePayment"
+95-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:58:13-41
+96            android:exported="false" />
+96-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:59:13-37
+97        <activity
+97-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:60:9-62:40
+98            android:name="com.example.ayurveda.PaymentSuccess"
+98-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:61:13-43
+99            android:exported="false" />
+99-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:62:13-37
+100        <activity
+100-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:63:9-65:40
+101            android:name="com.example.ayurveda.PaymentGateway"
+101-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:64:13-43
+102            android:exported="false" />
+102-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:65:13-37
+103        <activity
+103-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:66:9-68:40
+104            android:name="com.example.ayurveda.DoctorPayment"
+104-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:67:13-42
+105            android:exported="false" />
+105-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:68:13-37
+106        <activity
+106-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:69:9-71:40
+107            android:name="com.example.ayurveda.EditDiagnosisForm"
+107-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:70:13-46
+108            android:exported="false" />
+108-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:71:13-37
+109        <activity
+109-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:72:9-74:40
+110            android:name="com.example.ayurveda.DoctorDiagnosisForm"
+110-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:73:13-48
+111            android:exported="false" />
+111-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:74:13-37
+112        <activity
+112-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:75:9-77:40
+113            android:name="com.example.ayurveda.DocProfilenDashboard"
+113-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:76:13-49
+114            android:exported="false" />
+114-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:77:13-37
+115        <activity
+115-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:78:9-80:40
+116            android:name="com.example.ayurveda.WelcomeDoctor"
+116-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:79:13-42
+117            android:exported="false" />
+117-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:80:13-37
+118        <activity
+118-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:81:9-83:40
+119            android:name="com.example.ayurveda.DoctorRegister"
+119-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:82:13-43
+120            android:exported="false" />
+120-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:83:13-37
+121        <activity
+121-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:84:9-86:40
+122            android:name="com.example.ayurveda.DoctorLogin"
+122-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:85:13-40
+123            android:exported="false" />
+123-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:86:13-37
+124        <activity
+124-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:87:9-89:40
+125            android:name="com.example.ayurveda.UserProfile"
+125-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:88:13-40
+126            android:exported="false" />
+126-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:89:13-37
+127        <activity
+127-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:90:9-92:40
+128            android:name="com.example.ayurveda.DoctorProfile"
+128-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:91:13-42
+129            android:exported="false" />
+129-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:92:13-37
+130
+131        <meta-data
+131-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:94:9-96:71
+132            android:name="com.google.android.geo.API_KEY"
+132-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:95:13-58
+133            android:value="AIzaSyDbEtMrpESGgw6iEoP-FujLUFyrIgkt2QY" />
+133-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:96:13-68
+134
+135        <activity
+135-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:98:9-101:58
+136            android:name="com.example.ayurveda.Map"
+136-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:99:13-32
+137            android:exported="false"
+137-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:100:13-37
+138            android:label="@string/title_activity_map" />
+138-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:101:13-55
+139        <activity
+139-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:102:9-105:55
+140            android:name="com.example.ayurveda.Home"
+140-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:103:13-33
+141            android:exported="false"
+141-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:104:13-37
+142            android:windowSoftInputMode="adjustPan" />
+142-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:105:13-52
+143        <activity
+143-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:106:9-108:40
+144            android:name="com.example.ayurveda.WelcomeUser"
+144-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:107:13-40
+145            android:exported="false" />
+145-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:108:13-37
+146        <activity
+146-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:109:9-111:40
+147            android:name="com.example.ayurveda.UsersRegister"
+147-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:110:13-42
+148            android:exported="false" />
+148-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:111:13-37
+149        <activity
+149-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:112:9-114:40
+150            android:name="com.example.ayurveda.UsersLogin"
+150-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:113:13-39
+151            android:exported="false" />
+151-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:114:13-37
+152        <activity
+152-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:115:9-118:55
+153            android:name="com.example.ayurveda.ProductAddedStatus"
+153-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:116:13-47
+154            android:exported="false"
+154-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:117:13-37
+155            android:windowSoftInputMode="adjustPan" />
+155-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:118:13-52
+156        <activity
+156-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:119:9-121:40
+157            android:name="com.example.ayurveda.ProductsView"
+157-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:120:13-41
+158            android:exported="false" />
+158-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:121:13-37
+159        <activity
+159-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:122:9-124:40
+160            android:name="com.example.ayurveda.AddProduct"
+160-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:123:13-39
+161            android:exported="false" />
+161-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:124:13-37
+162        <activity
+162-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:125:9-128:55
+163            android:name="com.example.ayurveda.DoctorRecommendation"
+163-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:126:13-49
+164            android:exported="false"
+164-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:127:13-37
+165            android:windowSoftInputMode="adjustPan" />
+165-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:128:13-52
+166        <activity
+166-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:129:9-132:55
+167            android:name="com.example.ayurveda.HerbRecommendation"
+167-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:130:13-47
+168            android:exported="false"
+168-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:131:13-37
+169            android:windowSoftInputMode="adjustPan" />
+169-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:132:13-52
+170        <activity
+170-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:133:9-136:55
+171            android:name="com.example.ayurveda.RemedyRecommendation"
+171-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:134:13-49
+172            android:exported="false"
+172-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:135:13-37
+173            android:windowSoftInputMode="adjustPan" />
+173-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:136:13-52
+174        <activity
+174-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:137:9-139:40
+175            android:name="com.example.ayurveda.Remedies"
+175-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:138:13-37
+176            android:exported="false" />
+176-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:139:13-37
+177        <activity
+177-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:140:9-142:40
+178            android:name="com.example.ayurveda.AddDoctorRemedy"
+178-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:141:13-44
+179            android:exported="false" />
+179-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:142:13-37
+180        <activity
+180-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:143:9-145:40
+181            android:name="com.example.ayurveda.DoctorOtherDetails"
+181-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:144:13-47
+182            android:exported="false" />
+182-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:145:13-37
+183        <activity
+183-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:146:9-148:40
+184            android:name="com.example.ayurveda.DoctorProfileOwn"
+184-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:147:13-45
+185            android:exported="false" />
+185-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:148:13-37
+186        <activity
+186-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:149:9-151:40
+187            android:name="com.example.ayurveda.DoctorRemedyAddSuccess"
+187-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:150:13-51
+188            android:exported="false" />
+188-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:151:13-37
+189        <activity
+189-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:152:9-154:40
+190            android:name="com.example.ayurveda.SaveDiagnosisForm"
+190-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:153:13-46
+191            android:exported="false" />
+191-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:154:13-37
+192        <activity
+192-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:155:9-157:40
+193            android:name="com.example.ayurveda.ViewAppoinments"
+193-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:156:13-44
+194            android:exported="false" />
+194-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:157:13-37
+195        <activity
+195-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:158:9-160:40
+196            android:name="com.example.ayurveda.ViewAppoinmentsDetails"
+196-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:159:13-51
+197            android:exported="false" />
+197-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:160:13-37
+198        <activity
+198-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:161:9-170:20
+199            android:name="com.example.ayurveda.MainActivity"
+199-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:162:13-41
+200            android:exported="true"
+200-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:163:13-36
+201            android:windowSoftInputMode="adjustPan" >
+201-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:164:13-52
+202            <intent-filter>
+202-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:165:13-169:29
+203                <action android:name="android.intent.action.MAIN" />
+203-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:166:17-69
+203-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:166:25-66
+204
+205                <category android:name="android.intent.category.LAUNCHER" />
+205-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:168:17-77
+205-->D:\Final\Ayurveda app\app\src\main\AndroidManifest.xml:168:27-74
+206            </intent-filter>
+207        </activity>
+208
+209        <service
+209-->[com.google.firebase:firebase-firestore-ktx:24.9.0] C:\Users\pande\.gradle\caches\transforms-3\0416e8e08be74d82640b6a728a759910\transformed\firebase-firestore-ktx-24.9.0\AndroidManifest.xml:9:9-15:19
+210            android:name="com.google.firebase.components.ComponentDiscoveryService"
+210-->[com.google.firebase:firebase-firestore-ktx:24.9.0] C:\Users\pande\.gradle\caches\transforms-3\0416e8e08be74d82640b6a728a759910\transformed\firebase-firestore-ktx-24.9.0\AndroidManifest.xml:10:13-84
+211            android:directBootAware="true"
+211-->[com.google.firebase:firebase-common:20.4.2] C:\Users\pande\.gradle\caches\transforms-3\8c298c4605677c9b2f20a794fdd46708\transformed\firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+212            android:exported="false" >
+212-->[com.google.firebase:firebase-firestore-ktx:24.9.0] C:\Users\pande\.gradle\caches\transforms-3\0416e8e08be74d82640b6a728a759910\transformed\firebase-firestore-ktx-24.9.0\AndroidManifest.xml:11:13-37
+213            <meta-data
+213-->[com.google.firebase:firebase-firestore-ktx:24.9.0] C:\Users\pande\.gradle\caches\transforms-3\0416e8e08be74d82640b6a728a759910\transformed\firebase-firestore-ktx-24.9.0\AndroidManifest.xml:12:13-14:85
+214                android:name="com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar"
+214-->[com.google.firebase:firebase-firestore-ktx:24.9.0] C:\Users\pande\.gradle\caches\transforms-3\0416e8e08be74d82640b6a728a759910\transformed\firebase-firestore-ktx-24.9.0\AndroidManifest.xml:13:17-129
+215                android:value="com.google.firebase.components.ComponentRegistrar" />
+215-->[com.google.firebase:firebase-firestore-ktx:24.9.0] C:\Users\pande\.gradle\caches\transforms-3\0416e8e08be74d82640b6a728a759910\transformed\firebase-firestore-ktx-24.9.0\AndroidManifest.xml:14:17-82
+216            <meta-data
+216-->[com.google.firebase:firebase-auth-ktx:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\3c19eb16bd40eb31bf989d380a63e87f\transformed\firebase-auth-ktx-22.2.0\AndroidManifest.xml:11:13-13:85
+217                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar"
+217-->[com.google.firebase:firebase-auth-ktx:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\3c19eb16bd40eb31bf989d380a63e87f\transformed\firebase-auth-ktx-22.2.0\AndroidManifest.xml:12:17-119
+218                android:value="com.google.firebase.components.ComponentRegistrar" />
+218-->[com.google.firebase:firebase-auth-ktx:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\3c19eb16bd40eb31bf989d380a63e87f\transformed\firebase-auth-ktx-22.2.0\AndroidManifest.xml:13:17-82
+219            <meta-data
+219-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\pande\.gradle\caches\transforms-3\ba590cd51aebbd99884ee07ca22ae34b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:30:13-32:85
+220                android:name="com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar"
+220-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\pande\.gradle\caches\transforms-3\ba590cd51aebbd99884ee07ca22ae34b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:31:17-118
+221                android:value="com.google.firebase.components.ComponentRegistrar" />
+221-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\pande\.gradle\caches\transforms-3\ba590cd51aebbd99884ee07ca22ae34b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:32:17-82
+222            <meta-data
+222-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\pande\.gradle\caches\transforms-3\ba590cd51aebbd99884ee07ca22ae34b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:33:13-35:85
+223                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+223-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\pande\.gradle\caches\transforms-3\ba590cd51aebbd99884ee07ca22ae34b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:34:17-107
+224                android:value="com.google.firebase.components.ComponentRegistrar" />
+224-->[com.google.firebase:firebase-storage:20.3.0] C:\Users\pande\.gradle\caches\transforms-3\ba590cd51aebbd99884ee07ca22ae34b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:35:17-82
+225            <meta-data
+225-->[com.google.firebase:firebase-firestore:24.9.0] C:\Users\pande\.gradle\caches\transforms-3\eb5bdf524616090a6ced62fd650e7263\transformed\firebase-firestore-24.9.0\AndroidManifest.xml:17:13-19:85
+226                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+226-->[com.google.firebase:firebase-firestore:24.9.0] C:\Users\pande\.gradle\caches\transforms-3\eb5bdf524616090a6ced62fd650e7263\transformed\firebase-firestore-24.9.0\AndroidManifest.xml:18:17-122
+227                android:value="com.google.firebase.components.ComponentRegistrar" />
+227-->[com.google.firebase:firebase-firestore:24.9.0] C:\Users\pande\.gradle\caches\transforms-3\eb5bdf524616090a6ced62fd650e7263\transformed\firebase-firestore-24.9.0\AndroidManifest.xml:19:17-82
+228            <meta-data
+228-->[com.google.firebase:firebase-firestore:24.9.0] C:\Users\pande\.gradle\caches\transforms-3\eb5bdf524616090a6ced62fd650e7263\transformed\firebase-firestore-24.9.0\AndroidManifest.xml:20:13-22:85
+229                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+229-->[com.google.firebase:firebase-firestore:24.9.0] C:\Users\pande\.gradle\caches\transforms-3\eb5bdf524616090a6ced62fd650e7263\transformed\firebase-firestore-24.9.0\AndroidManifest.xml:21:17-111
+230                android:value="com.google.firebase.components.ComponentRegistrar" />
+230-->[com.google.firebase:firebase-firestore:24.9.0] C:\Users\pande\.gradle\caches\transforms-3\eb5bdf524616090a6ced62fd650e7263\transformed\firebase-firestore-24.9.0\AndroidManifest.xml:22:17-82
+231            <meta-data
+231-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:69:13-71:85
+232                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+232-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:70:17-109
+233                android:value="com.google.firebase.components.ComponentRegistrar" />
+233-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:71:17-82
+234            <meta-data
+234-->[com.google.firebase:firebase-appcheck:17.1.0] C:\Users\pande\.gradle\caches\transforms-3\fc540ac6230ea09767ca3e38c2236e20\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:25:13-27:85
+235                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar"
+235-->[com.google.firebase:firebase-appcheck:17.1.0] C:\Users\pande\.gradle\caches\transforms-3\fc540ac6230ea09767ca3e38c2236e20\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:26:17-120
+236                android:value="com.google.firebase.components.ComponentRegistrar" />
+236-->[com.google.firebase:firebase-appcheck:17.1.0] C:\Users\pande\.gradle\caches\transforms-3\fc540ac6230ea09767ca3e38c2236e20\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:27:17-82
+237            <meta-data
+237-->[com.google.firebase:firebase-appcheck:17.1.0] C:\Users\pande\.gradle\caches\transforms-3\fc540ac6230ea09767ca3e38c2236e20\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:28:13-30:85
+238                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar"
+238-->[com.google.firebase:firebase-appcheck:17.1.0] C:\Users\pande\.gradle\caches\transforms-3\fc540ac6230ea09767ca3e38c2236e20\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:29:17-117
+239                android:value="com.google.firebase.components.ComponentRegistrar" />
+239-->[com.google.firebase:firebase-appcheck:17.1.0] C:\Users\pande\.gradle\caches\transforms-3\fc540ac6230ea09767ca3e38c2236e20\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:30:17-82
+240            <meta-data
+240-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\pande\.gradle\caches\transforms-3\85846accdcb2b28b0dbd1ff79886160d\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+241                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+241-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\pande\.gradle\caches\transforms-3\85846accdcb2b28b0dbd1ff79886160d\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+242                android:value="com.google.firebase.components.ComponentRegistrar" />
+242-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\pande\.gradle\caches\transforms-3\85846accdcb2b28b0dbd1ff79886160d\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+243            <meta-data
+243-->[com.google.firebase:firebase-common:20.4.2] C:\Users\pande\.gradle\caches\transforms-3\8c298c4605677c9b2f20a794fdd46708\transformed\firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+244                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+244-->[com.google.firebase:firebase-common:20.4.2] C:\Users\pande\.gradle\caches\transforms-3\8c298c4605677c9b2f20a794fdd46708\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+245                android:value="com.google.firebase.components.ComponentRegistrar" />
+245-->[com.google.firebase:firebase-common:20.4.2] C:\Users\pande\.gradle\caches\transforms-3\8c298c4605677c9b2f20a794fdd46708\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+246        </service>
+247
+248        <activity
+248-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:29:9-46:20
+249            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+249-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:30:13-80
+250            android:excludeFromRecents="true"
+250-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:31:13-46
+251            android:exported="true"
+251-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:32:13-36
+252            android:launchMode="singleTask"
+252-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:33:13-44
+253            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+253-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:34:13-72
+254            <intent-filter>
+254-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:35:13-45:29
+255                <action android:name="android.intent.action.VIEW" />
+255-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:36:17-69
+255-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:36:25-66
+256
+257                <category android:name="android.intent.category.DEFAULT" />
+257-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:38:17-76
+257-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:38:27-73
+258                <category android:name="android.intent.category.BROWSABLE" />
+258-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:39:17-78
+258-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:39:27-75
+259
+260                <data
+260-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:41:17-44:51
+261                    android:host="firebase.auth"
+261-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:42:21-49
+262                    android:path="/"
+262-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:43:21-37
+263                    android:scheme="genericidp" />
+263-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:44:21-48
+264            </intent-filter>
+265        </activity>
+266        <activity
+266-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:47:9-64:20
+267            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+267-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:48:13-79
+268            android:excludeFromRecents="true"
+268-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:49:13-46
+269            android:exported="true"
+269-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:50:13-36
+270            android:launchMode="singleTask"
+270-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:51:13-44
+271            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+271-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:52:13-72
+272            <intent-filter>
+272-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:53:13-63:29
+273                <action android:name="android.intent.action.VIEW" />
+273-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:36:17-69
+273-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:36:25-66
+274
+275                <category android:name="android.intent.category.DEFAULT" />
+275-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:38:17-76
+275-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:38:27-73
+276                <category android:name="android.intent.category.BROWSABLE" />
+276-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:39:17-78
+276-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:39:27-75
+277
+278                <data
+278-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:41:17-44:51
+279                    android:host="firebase.auth"
+279-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:42:21-49
+280                    android:path="/"
+280-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:43:21-37
+281                    android:scheme="recaptcha" />
+281-->[com.google.firebase:firebase-auth:22.2.0] C:\Users\pande\.gradle\caches\transforms-3\5b4fe98fa7b1b7f9ba3b581a191fe750\transformed\firebase-auth-22.2.0\AndroidManifest.xml:44:21-48
+282            </intent-filter>
+283        </activity>
+284
+285        <provider
+285-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:37:9-42:71
+286            android:name="com.android.car.ui.core.CarUiInstaller"
+286-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:38:13-66
+287            android:authorities="com.example.ayurveda.CarUiInstaller"
+287-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:39:13-66
+288            android:directBootAware="true"
+288-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:40:13-43
+289            android:exported="false"
+289-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:41:13-37
+290            android:process="@string/car_ui_installer_process_name" />
+290-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:42:13-68
+291        <provider
+291-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:43:9-48:79
+292            android:name="com.android.car.ui.core.SearchResultsProvider"
+292-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:44:13-73
+293            android:authorities="com.example.ayurveda.SearchResultsProvider"
+293-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:45:13-73
+294            android:exported="true"
+294-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:46:13-36
+295            android:process="@string/car_ui_installer_process_name"
+295-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:47:13-68
+296            android:readPermission="com.android.car.ui.READ_SEARCH_RESULTS" /> <!-- Needs to be explicitly declared on P+ -->
+296-->[com.android.car.ui:car-ui-lib:2.5.1] C:\Users\pande\.gradle\caches\transforms-3\ac00f7b969dd66b820676c1e8c9db040\transformed\car-ui-lib-2.5.1\AndroidManifest.xml:48:13-76
+297        <uses-library
+297-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\pande\.gradle\caches\transforms-3\8e0d750c5d21d3f02e3d0d531f0a122e\transformed\play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+298            android:name="org.apache.http.legacy"
+298-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\pande\.gradle\caches\transforms-3\8e0d750c5d21d3f02e3d0d531f0a122e\transformed\play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+299            android:required="false" />
+299-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\pande\.gradle\caches\transforms-3\8e0d750c5d21d3f02e3d0d531f0a122e\transformed\play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+300
+301        <activity
+301-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\pande\.gradle\caches\transforms-3\b736a2ce5bd5dfbfb6b49104d888f692\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+302            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+302-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\pande\.gradle\caches\transforms-3\b736a2ce5bd5dfbfb6b49104d888f692\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+303            android:exported="false"
+303-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\pande\.gradle\caches\transforms-3\b736a2ce5bd5dfbfb6b49104d888f692\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+304            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+304-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\pande\.gradle\caches\transforms-3\b736a2ce5bd5dfbfb6b49104d888f692\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+305
+306        <provider
+306-->[com.google.firebase:firebase-common:20.4.2] C:\Users\pande\.gradle\caches\transforms-3\8c298c4605677c9b2f20a794fdd46708\transformed\firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+307            android:name="com.google.firebase.provider.FirebaseInitProvider"
+307-->[com.google.firebase:firebase-common:20.4.2] C:\Users\pande\.gradle\caches\transforms-3\8c298c4605677c9b2f20a794fdd46708\transformed\firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+308            android:authorities="com.example.ayurveda.firebaseinitprovider"
+308-->[com.google.firebase:firebase-common:20.4.2] C:\Users\pande\.gradle\caches\transforms-3\8c298c4605677c9b2f20a794fdd46708\transformed\firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+309            android:directBootAware="true"
+309-->[com.google.firebase:firebase-common:20.4.2] C:\Users\pande\.gradle\caches\transforms-3\8c298c4605677c9b2f20a794fdd46708\transformed\firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+310            android:exported="false"
+310-->[com.google.firebase:firebase-common:20.4.2] C:\Users\pande\.gradle\caches\transforms-3\8c298c4605677c9b2f20a794fdd46708\transformed\firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+311            android:initOrder="100" />
+311-->[com.google.firebase:firebase-common:20.4.2] C:\Users\pande\.gradle\caches\transforms-3\8c298c4605677c9b2f20a794fdd46708\transformed\firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+312
+313        <meta-data
+313-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\pande\.gradle\caches\transforms-3\8552d64e3efaf8249649e2747e47ead0\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+314            android:name="com.google.android.gms.version"
+314-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\pande\.gradle\caches\transforms-3\8552d64e3efaf8249649e2747e47ead0\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+315            android:value="@integer/google_play_services_version" />
+315-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\pande\.gradle\caches\transforms-3\8552d64e3efaf8249649e2747e47ead0\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+316
+317        <provider
+317-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pande\.gradle\caches\transforms-3\20d97f6ea013d1fe133aa24c4be4b15c\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+318            android:name="androidx.startup.InitializationProvider"
+318-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pande\.gradle\caches\transforms-3\20d97f6ea013d1fe133aa24c4be4b15c\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+319            android:authorities="com.example.ayurveda.androidx-startup"
+319-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pande\.gradle\caches\transforms-3\20d97f6ea013d1fe133aa24c4be4b15c\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+320            android:exported="false" >
+320-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pande\.gradle\caches\transforms-3\20d97f6ea013d1fe133aa24c4be4b15c\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+321            <meta-data
+321-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pande\.gradle\caches\transforms-3\20d97f6ea013d1fe133aa24c4be4b15c\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+322                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+322-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pande\.gradle\caches\transforms-3\20d97f6ea013d1fe133aa24c4be4b15c\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+323                android:value="androidx.startup" />
+323-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pande\.gradle\caches\transforms-3\20d97f6ea013d1fe133aa24c4be4b15c\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+324            <meta-data
+324-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\pande\.gradle\caches\transforms-3\9f0c53f70052d6ac9846d8d56de671bb\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+325                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+325-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\pande\.gradle\caches\transforms-3\9f0c53f70052d6ac9846d8d56de671bb\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+326                android:value="androidx.startup" />
+326-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\pande\.gradle\caches\transforms-3\9f0c53f70052d6ac9846d8d56de671bb\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+327            <meta-data
+327-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+328                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+328-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+329                android:value="androidx.startup" />
+329-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+330        </provider>
+331        <provider
+331-->[com.squareup.picasso:picasso:2.71828] C:\Users\pande\.gradle\caches\transforms-3\f632b939e9747f461e18bbd7b1600c36\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+332            android:name="com.squareup.picasso.PicassoProvider"
+332-->[com.squareup.picasso:picasso:2.71828] C:\Users\pande\.gradle\caches\transforms-3\f632b939e9747f461e18bbd7b1600c36\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+333            android:authorities="com.example.ayurveda.com.squareup.picasso"
+333-->[com.squareup.picasso:picasso:2.71828] C:\Users\pande\.gradle\caches\transforms-3\f632b939e9747f461e18bbd7b1600c36\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+334            android:exported="false" />
+334-->[com.squareup.picasso:picasso:2.71828] C:\Users\pande\.gradle\caches\transforms-3\f632b939e9747f461e18bbd7b1600c36\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+335
+336        <receiver
+336-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+337            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+337-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+338            android:directBootAware="false"
+338-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+339            android:enabled="true"
+339-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+340            android:exported="true"
+340-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+341            android:permission="android.permission.DUMP" >
+341-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+342            <intent-filter>
+342-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+343                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+343-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+343-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+344            </intent-filter>
+345            <intent-filter>
+345-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+346                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+346-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+346-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+347            </intent-filter>
+348            <intent-filter>
+348-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+349                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+349-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+349-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+350            </intent-filter>
+351            <intent-filter>
+351-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+352                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+352-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+352-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\pande\.gradle\caches\transforms-3\d2ed14c24461ed113248aacb456c3a38\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+353            </intent-filter>
+354        </receiver>
+355    </application>
+356
+357</manifest>

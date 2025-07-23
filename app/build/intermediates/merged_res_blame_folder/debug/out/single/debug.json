@@ -1,0 +1,778 @@
+[
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_mapmarker.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\mapmarker.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_search.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_stdportalbtn.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\stdportalbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_list_user_completed_appointments.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_user_completed_appointments.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_doctor_register.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_fingerprint.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\fingerprint.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_seeallbtn.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\seeallbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_custom_input.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\custom_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_stress_relief_image.jpg.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\stress_relief_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\raw_demo2.mp4.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\raw\\demo2.mp4"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_list_item_store_products.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_store_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_plank_image.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\plank_image.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_weight_loss_image.jpg.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\weight_loss_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_calanderforinputs.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\calanderforinputs.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_burpees_image.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\burpees_image.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_list_item_appoinment_complete.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_appoinment_complete.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_remedies_icon_active.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\remedies_icon_active.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_cart.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_clicktoviewlocationbtn.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\clicktoviewlocationbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_mastercard.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\mastercard.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_appointmentactive.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\appointmentactive.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_user_profile_icon.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\user_profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_doctor_diagnosis_form.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_diagnosis_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_blue_round.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\blue_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_bg_searchview_query.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\bg_searchview_query.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_list_item_doctors.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_doctors.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_appointment_blue.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\appointment_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_logout_btn.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\logout_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_yoga.jpeg.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\yoga.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_historykimuthu.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\historykimuthu.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_plus.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_storeactive.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\storeactive.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_docswitch.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\docswitch.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_squats_image.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\squats_image.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_exercise.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\font_fm_bindumathi.ttf.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\font\\fm_bindumathi.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_doctor_login.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_rectbg.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\rectbg.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_store_payment_success.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_store_payment_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_users_login.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_users_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_detoxification_image.jpg.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\detoxification_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_store_home.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_store_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_license_icon.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\license_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_sts_btn.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\sts_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_joint_pain_image.jpg.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\joint_pain_image.jpg"
+    },
+    {
+        "merged": "com.example.ayurveda.app-merged_res-41:/layout_activity_add_doctor_remedy.xml.flat",
+        "source": "com.example.ayurveda.app-main-43:/layout/activity_add_doctor_remedy.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_img.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_treatment_package.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_treatment_package.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_herb_recommendation.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_herb_recommendation.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_users_register.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_users_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_yoga2.jpeg.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\yoga2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_signupbtn.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\signupbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_switchtodoc.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\switchtodoc.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_list_item_appoinments_pending.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_appoinments_pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_list_user_pending_appointments.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_user_pending_appointments.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_list_item_products.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_plusicon.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\plusicon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_pushups_image.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\pushups_image.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_appointments_icon.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\appointments_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_treatment_package_detail.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_treatment_package_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_rejuvenation_image.jpg.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\rejuvenation_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_calendr.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\calendr.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_doctorsigninbtnkimuthu.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\doctorsigninbtnkimuthu.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_circle_semi_transparent.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\circle_semi_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_home_icon.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_yoga3.jpg.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\yoga3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_ayurveda.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\ayurveda.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_search_doctor.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_search_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_avatarcaedview.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\avatarcaedview.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_adminiconkimuthu.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\adminiconkimuthu.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_ayurveda_sn_white.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\ayurveda_sn_white.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_leftarrowwhite.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\leftarrowwhite.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_cat_2.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\cat_2.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_locationkimuthu.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\locationkimuthu.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_welcome_doctor.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_welcome_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_ayurvedablueclrname.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\ayurvedablueclrname.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_baseline_search.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\baseline_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_payment_gateway.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_payment_gateway.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_navcard.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\navcard.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_tick.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\tick.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_uploadkimuthu.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\uploadkimuthu.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_docappointment.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\docappointment.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_custom_blue_border_input.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\custom_blue_border_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_doctorsignupbtnkimuthu.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\doctorsignupbtnkimuthu.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_next.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_home_icon_active.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\home_icon_active.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_save_diagnosis_form.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_save_diagnosis_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_baseline_minus.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\baseline_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_your_products.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_your_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_list_item_herbs.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_herbs.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_mapcardview.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\mapcardview.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_letsgobtn.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\letsgobtn.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_book.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_list_item_remedies.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_remedies.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_banner_dp.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\banner_dp.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_doctor_payment.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_herb.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\herb.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\font_inria_sans_bold.ttf.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\font\\inria_sans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_minussign.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\minussign.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_btn_gray_background.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\btn_gray_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_immunity_booster_image.jpg.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\immunity_booster_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_ayurveda_blue_logo.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\ayurveda_blue_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_cat_3.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\cat_3.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_list_item_herb_products.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_herb_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_panchakarma_image.jpeg.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\panchakarma_image.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_doctor_booking.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_bell.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\bell.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_item_exercise.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\item_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_products_view.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_products_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_btn_blue_background.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\btn_blue_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_view_appoinments.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_view_appoinments.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_situps_image.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\situps_image.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_list_item_appoinment_details_last.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_appoinment_details_last.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_booking_completed.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_booking_completed.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_location_icon.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_user_profile_icon_active.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\user_profile_icon_active.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_remedies_icon.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\remedies_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_skin_care_image.jpg.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\skin_care_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_doctor_recommendation.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_recommendation.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_signinbtn.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\signinbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_phone_icon.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_gentle.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\gentle.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\font_inria_sans_regular.ttf.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\font\\inria_sans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_cat_1.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\cat_1.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_ayurveda_white_logo.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\ayurveda_white_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_store_payment.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_store_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_remedies.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_remedies.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_visa.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\visa.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_booknow_btn.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\booknow_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_store_payment_gateway.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_store_payment_gateway.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_doctor_profile.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_welcome_user.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_welcome_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_timeforinputs.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\timeforinputs.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_product_added_status.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_product_added_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_doctor_remedy_add_success.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_remedy_add_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_doc_profilen_dashboard.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doc_profilen_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_add_doctor_remedy.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_add_doctor_remedy.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_rightarrowblue.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\rightarrowblue.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_calendarkimuthu.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\calendarkimuthu.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_deletekimuthu.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\deletekimuthu.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_add_product.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_doctoravatar.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\doctoravatar.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_baseline_red_dot.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\baseline_red_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_remedy_recommendation.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_remedy_recommendation.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_addkimuthu.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\addkimuthu.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_view_appoinments_details.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_view_appoinments_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_store_icon.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\store_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_user_appointments.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_user_appointments.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_searchkimuthu.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\searchkimuthu.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_list_item_appoinment_details.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_appoinment_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_lunges_image.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\lunges_image.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_storeicons.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\storeicons.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_graduate_icon.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\graduate_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_payment_success.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_payment_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_edit_diagnosis_form.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_edit_diagnosis_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_store_cart.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_store_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_list_item_your_products.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\list_item_your_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_usertxt.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\usertxt.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_doctor_other_details.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_other_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_search_input.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\search_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_user_profile.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\raw_demo.mp4.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\raw\\demo.mp4"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_bge.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\bge.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_jumpingjacks_image.png.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\jumpingjacks_image.png"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_item_treatment_package.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\item_treatment_package.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-merged_res-41:\\layout_activity_doctor_profile_own.xml.flat",
+        "source": "C:\\Users\\pande\\.gradle\\daemon\\8.5\\com.example.ayurveda.app-main-43:\\layout\\activity_doctor_profile_own.xml"
+    }
+]
