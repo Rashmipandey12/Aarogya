@@ -81,7 +81,7 @@ Manual test cases were written and validated for:
 ## 📸 Screenshots
 
 - Doctor Login & Appointment Pages
-<img src="screenshots/doctor login.png" alt="Doctor Login Page" width="400" height="200"/>
+<img src="screenshots/doctor login.png" alt="Doctor Login Page"  height="600"/>
 - Patient Dashboard
 - Booking Doctor Interface
 - Remedies, Herbs, Exercises & Store Pages
